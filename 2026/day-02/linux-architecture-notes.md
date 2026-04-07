@@ -1,8 +1,9 @@
-What is Linux?
+## What is Linux? ##
+
 Linux is an open-source operating system that is an alternative to proprietary operating systems like Microsoft Windows and macOS. It was initially developed as a hobby by Linus Torvalds in 1991. It has since evolved into a powerful and versatile operating system used worldwide. One of the key features of Linux is its distribution model, where different organizations and communities create their own versions of Linux called distributions or distros. Some popular Linux distributions include Ubuntu, Fedora, Debian, and CentOS.
 
-=====================================================
-Linux architecture:
+
+## Linux architecture: ##
 
 Linux operating systems are composed of several key layers: the Kernel (core hardware management), System Libraries (functions allowing applications to access kernel features), System Utilities (specialized tasks), the Shell (user interface), and Hardware. Together, these components manage hardware, facilitate user interaction, and execute applications.Here are the main components of a Linux system:
 
